@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20981" hassounds="0" start="node4" appversion="7.1.7">
+  <panorama hideabout="1" id="node1">
+    <input levelingpitch="0" tile0url="images/Main_01_o_0.jpg" tilesize="1000" tile3url="images/Main_01_o_3.jpg" tilescale="1.010000" tile2url="images/Main_01_o_2.jpg" tile4url="images/Main_01_o_4.jpg" levelingroll="0" tile5url="images/Main_01_o_5.jpg" tile1url="images/Main_01_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-86.69">
+      <start tilt="12.07" projection="4" fov="70" pan="64.79"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Main_01" datetime="Tue 26th Aug 2025 - 13:00" description="Main_01" latitude="17.48204069618152" copyright="SynthFusionLabs" author="NipunDumpala" heading="-86.69" customnodeid="" tags="" info="" nodeid="node1" source="" comment="" longitude="78.31935651600361"/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" width="180" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" height="20" wordwrap="1" bordercolor="0x000000" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="0" title="Middle Enterance" url="{node2}" description="" id="Middle Enterance" pan="228.67" skinid="ht_node" target="234.5/2.5/65"/>
+      <hotspot tilt="0" title="Sammakka" url="{node3}" description="" id="Sammakka" pan="-145.42" skinid="ht_node" target="0/0/65"/>
+      <hotspot tilt="0.12" title="Temple Enterance" url="{node4}" description="" id="Temple Enterance" pan="-151.56" skinid="ht_node" target="$fwd"/>
+      <hotspot tilt="0" title="Saralamma" url="{node5}" description="" id="Saralamma" pan="-157.88" skinid="ht_node" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="0.5" zoomspeed="8" zoomafteroutfov="12" zoomfov="12" type="crossdissolve" zoomafterinfov="82" zoomoutpause="1" delay="none" blendcolor="0x000000" zoomin="2" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" hideabout="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" contextvr="1" invertwheel="0" sensitivity="8"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelingpitch="0" tile0url="images/Main_02_o_0.jpg" tilesize="1000" tile3url="images/Main_02_o_3.jpg" tilescale="1.010000" tile2url="images/Main_02_o_2.jpg" tile4url="images/Main_02_o_4.jpg" levelingroll="0" tile5url="images/Main_02_o_5.jpg" tile1url="images/Main_02_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="178.8">
+      <start tilt="4.01" projection="4" fov="70" pan="65.26"/>
+      <flyin tilt="0" projection="4" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Main_02" datetime="Tue 26th Aug 2025 - 13:00" description="Main_02" latitude="17.48204069618152" copyright="SynthFusionLabs" author="NipunDumpala" heading="178.8" customnodeid="" tags="" info="" nodeid="node2" source="" comment="" longitude="78.31935651600361"/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" width="180" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" height="20" wordwrap="1" bordercolor="0x000000" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-0.36" title="Main Enterance" url="{node1}" description="" id="Main Enterance" pan="146.55" skinid="ht_node" target="339/1.5/65"/>
+      <hotspot tilt="0" title="Sammakka" url="{node3}" description="" id="Sammakka" pan="293.65" skinid="ht_node" target="359/7.5/65"/>
+      <hotspot tilt="0" title="Temple Enterance" url="{node4}" description="" id="Temple Enterance" pan="287.92" skinid="ht_node" target="$fwd"/>
+      <hotspot tilt="0" title="Saralamma" url="{node5}" description="" id="Saralamma" pan="281.53" skinid="ht_node" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="0.5" zoomspeed="8" zoomafteroutfov="12" zoomfov="12" type="crossdissolve" zoomafterinfov="82" zoomoutpause="1" delay="none" blendcolor="0x000000" zoomin="2" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" hideabout="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" contextvr="1" invertwheel="0" sensitivity="8"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelingpitch="0" tile0url="images/Tour_01_o_0.jpg" tilesize="1000" tile3url="images/Tour_01_o_3.jpg" tilescale="1.010000" tile2url="images/Tour_01_o_2.jpg" tile4url="images/Tour_01_o_4.jpg" levelingroll="0" tile5url="images/Tour_01_o_5.jpg" tile1url="images/Tour_01_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="178.8">
+      <start tilt="-23.9" projection="4" fov="70" pan="27.83"/>
+      <flyin tilt="0" projection="4" fov="70" pan="-90"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Tour_01" datetime="Tue 26th Aug 2025 - 13:00" description="Tour_01" latitude="17.48204069618152" copyright="SynthFusionLabs" author="NipunDumpala" heading="178.8" customnodeid="" tags="" info="" nodeid="node3" source="" comment="" longitude="78.31935651600361"/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" width="180" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" height="20" wordwrap="1" bordercolor="0x000000" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="0" title="Main Enterance" url="{node1}" description="" id="Main Enterance" pan="257.31" skinid="ht_node" target="278/3/65"/>
+      <hotspot tilt="0" title="Middle Enterance" url="{node2}" description="" id="Middle Enterance" pan="231.63" skinid="ht_node" target="69/4.5/65"/>
+      <hotspot tilt="-5" title="Temple Enterance" url="{node4}" description="" id="Temple Enterance" pan="10.55" skinid="ht_node" target="$fwd"/>
+      <hotspot tilt="0" title="Saralamma" url="{node5}" description="" id="Saralamma" pan="23.19" skinid="ht_node" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="0.5" zoomspeed="8" zoomafteroutfov="12" zoomfov="12" type="crossdissolve" zoomafterinfov="82" zoomoutpause="1" delay="none" blendcolor="0x000000" zoomin="2" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" hideabout="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" contextvr="1" invertwheel="0" sensitivity="8"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelingpitch="0" tile0url="images/Tour_02_o_0.jpg" tilesize="1000" tile3url="images/Tour_02_o_3.jpg" tilescale="1.010000" tile2url="images/Tour_02_o_2.jpg" tile4url="images/Tour_02_o_4.jpg" levelingroll="0" tile5url="images/Tour_02_o_5.jpg" tile1url="images/Tour_02_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-179.58">
+      <start tilt="-0.32" projection="4" fov="70" pan="164.19"/>
+      <flyin tilt="0" projection="4" fov="70" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Tour_02" datetime="Tue 26th Aug 2025 - 13:00" description="Tour_02" latitude="17.48204069618152" copyright="SynthFusionLabs" author="NipunDumpala" heading="-179.58" customnodeid="" tags="" info="" nodeid="node4" source="" comment="" longitude="78.31935651600361"/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" width="180" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" height="20" wordwrap="1" bordercolor="0x000000" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="0" title="Main Enterance" url="{node1}" description="" id="Main Enterance" pan="8.36" skinid="ht_node" target="217.5/7.5/65"/>
+      <hotspot tilt="0" title="Middle Enterance" url="{node2}" description="" id="Middle Enterance" pan="-9.62" skinid="ht_node" target="358/3/57.85"/>
+      <hotspot tilt="0" title="Sammakka" url="{node3}" description="" id="Sammakka" pan="317.65" skinid="ht_node" target="$fwd"/>
+      <hotspot tilt="0" title="Saralamma" url="{node5}" description="" id="Saralamma" pan="-182.47" skinid="ht_node" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="0.5" zoomspeed="8" zoomafteroutfov="12" zoomfov="12" type="crossdissolve" zoomafterinfov="82" zoomoutpause="1" delay="none" blendcolor="0x000000" zoomin="2" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" hideabout="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" contextvr="1" invertwheel="0" sensitivity="8"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelingpitch="0" tile0url="images/Tour_03_o_0.jpg" tilesize="1000" tile3url="images/Tour_03_o_3.jpg" tilescale="1.010000" tile2url="images/Tour_03_o_2.jpg" tile4url="images/Tour_03_o_4.jpg" levelingroll="0" tile5url="images/Tour_03_o_5.jpg" tile1url="images/Tour_03_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="86.71">
+      <start tilt="-29.94" projection="4" fov="70" pan="152.53"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata title="Tour_03" datetime="Tue 26th Aug 2025 - 13:00" description="Tour_03" latitude="17.48204069618152" copyright="SynthFusionLabs" author="NipunDumpala" heading="86.71" customnodeid="" tags="" info="" nodeid="node5" source="" comment="" altitude="-9998.00" longitude="78.31935651600361"/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" textcolor="0x000000" enabled="1" background="1" width="180" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" height="20" wordwrap="1" bordercolor="0x000000" textalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="0" title="Main Enterance" url="{node1}" description="" id="Main Enterance" pan="12.58" skinid="ht_node" target="121/-6/65"/>
+      <hotspot tilt="0" title="Middle Enterance" url="{node2}" description="" id="Middle Enterance" pan="359.09" skinid="ht_node" target="354.5/2/65"/>
+      <hotspot tilt="-5" title="Sammakka" url="{node3}" description="" id="Sammakka" pan="322.52" skinid="ht_node" target="$fwd"/>
+      <hotspot tilt="-15" title="Temple Enterance" url="{node4}" description="" id="Temple Enterance" pan="347.38" skinid="ht_node" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendtime="0.5" zoomspeed="8" zoomafteroutfov="12" zoomfov="12" type="crossdissolve" zoomafterinfov="82" zoomoutpause="1" delay="none" blendcolor="0x000000" zoomin="2" zoomout="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="1" lockedkeyboard="0" invertcontrol="1" contextfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" speedwheel="1" hideabout="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" contextvr="1" invertwheel="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata title="Sammakka Saralamma Jatara" tags="" comment="" description="Sammakka Saralamma Jatara" copyright="Nipun Dumpala" author="Nipun Dumpala"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

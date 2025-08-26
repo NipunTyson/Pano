@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [],
+		"css": []
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"vrskin": {},
+	"player": {
+		"js": "player.js"
+	},
+	"creationdate": "2025-08-26T01:03:22.720Z",
+	"configuration": "index.xml",
+	"preview": {
+		"img": "preview.jpg",
+		"width": 1280,
+		"height": 800
+	}
+}
