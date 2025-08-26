@@ -10,7 +10,7 @@
 	},
 	"vrskin": {},
 	"player": {
-		"js": "player.js"
+		"js": "pano2vr_playe.js"
 	},
 	"creationdate": "2025-08-26T01:03:22.720Z",
 	"configuration": "index.xml",
