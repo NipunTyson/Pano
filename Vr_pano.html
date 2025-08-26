@@ -66,12 +66,12 @@
 			skin_left=new pano2vrSkin(pano_left);
 			skin_right=new pano2vrSkin(pano_right);
 			// load the configuration
-		pano_left.readConfigUrl("Vr_pano.xml");
+		pano_left.readConfigUrl("./Vr_pano.xml");
 		var nodeIds=pano_left.getNodeIds();
 			pano_right.disableSoundLoading(); // only play sounds from the left pano.
 		pano_right.setVolume("_main",0.0);
 		
-			pano_right.readConfigUrl("Vr_pano.xml");
+			pano_right.readConfigUrl("./Vr_pano.xml");
 		// add gyroscope controller
 		gyro=new pano2vrGyro([pano_left,pano_right],"container_left");
 			gyro.setUseRoll(true); // Use roll of gyroscope if set
